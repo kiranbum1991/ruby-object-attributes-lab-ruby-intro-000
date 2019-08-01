@@ -15,5 +15,5 @@ class Dog
   def breed=(breed)               # creates setter method for age
      @breed = breed
   end
-  
+
 end
