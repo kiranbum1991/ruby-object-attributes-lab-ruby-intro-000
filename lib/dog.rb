@@ -1,7 +1,7 @@
 
 class Dog
   def name
-   @name = name
+   @name
   end
 
   def name=(name)               # creates setter method for age
@@ -9,7 +9,7 @@ class Dog
   end
 
   def breed
-   @breed = breed
+   @breed 
   end
 
   def breed=(breed)               # creates setter method for age
